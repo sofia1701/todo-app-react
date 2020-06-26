@@ -2,7 +2,7 @@
 
 This is a React Todo App that allows the user to have a list of current todos, add new activities to the list, mark them as complete and delete them.
 
-![Screenshot](Screenshot.png)
+![Screenshot](preview.png)
 
 ### Techonologies
 
